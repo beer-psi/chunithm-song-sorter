@@ -669,6 +669,7 @@ function fnc_ShowResults()
 			var new_img = createElement('img');
 			if (titleData.image.length > 0) {
 				new_img.src = str_ImgPath + titleData.image;
+				new_img.width = 180;
 				new_cell.appendChild(new_img);
 				new_cell.appendChild(createElement('br'));
 			}
@@ -817,4 +818,37 @@ function fnc_ShowData()
 		// Sort is incomplete, update options
 		fnc_UpdateOptions();
 	}
+}
+
+function fnc_DownloadDataAsCSV() {
+	let csv = `rank,version,title,artist`;
+	let int_Same = 1;
+	let int_Result = 0;
+
+
+	for (let i = 0; i < ary_TempData.length; i++) {
+		const obj_TempData = ary_TempData[ary_SortData[0][i]];
+		const versionData = getTitleData(obj_TempData[TRACK_TITLE_DATA]);
+		const title = obj_TempData[TRACK_NAME];
+		const artist = obj_TempData[TRACK_DESCRIPTION];
+
+		// Increase rank or keep the same if a tie.
+		if (i < ary_TempData.length - 1) {
+			if (ary_EqualData[ary_SortData[0][i]] == ary_SortData[0][i + 1]) {
+				int_Same++;
+			} else {
+				int_Result += int_Same;
+				int_Same = 1;
+			}
+		}
+
+		csv += `\n${int_Result},${versionData.abbrev},"${title.replaceAll('"', '""')}","${artist.replaceAll('"', '""')}"`;
+	}
+
+	const blob = new Blob([csv], { type: "text/csv" });
+	const anchor = document.createElement("a");
+	anchor.href = URL.createObjectURL(blob);
+	anchor.download = `chunithm-song-sorter-results-${new Date().valueOf()}.csv`;
+	anchor.click();
+	URL.revokeObjectURL(anchor.href);
 }
