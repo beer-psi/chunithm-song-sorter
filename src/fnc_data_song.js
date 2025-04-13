@@ -534,6 +534,10 @@ var ary_SongData = [
 	["〚空虚〛 ～Pyrophilia", new Set([TITLE.VERSE]), { title: "VERSE" }, "", "Black Box × Spyro Kong", ORIGINAL_TRACK, OTHER_THEME],
 	["Aether Crest: Celestial", new Set([TITLE.VERSE]), { title: "VERSE" }, "", "void (Mournfinale) × 水野健治", ORIGINAL_TRACK, OTHER_THEME],
 	["Crush the Dystopia", new Set([TITLE.VERSE]), { title: "VERSE" }, "", "MintJam vs Masahiro \"Godspeed\" Aoki", ORIGINAL_TRACK, OTHER_THEME],
+	["旅星に渇く", new Set([TITLE.VERSE]), { title: "VERSE" }, "u_jC3xKtO1w", "Yu-dachi", ORIGINAL_TRACK, OTHER_THEME],
+	["ずんずんサファリ", new Set([TITLE.VERSE]), { title: "VERSE" }, "", "ずんずんサファリ", ORIGINAL_TRACK, OTHER_THEME],
+	["jaQup", new Set([TITLE.VERSE]), { title: "VERSE" }, "Pz8VuPx2mQg", "owl＊tree", ORIGINAL_TRACK, OTHER_THEME],
+	["HeinousЯeaper", new Set([TITLE.VERSE]), { title: "VERSE" }, "9xAJbTZIcq8", "seatrus", ORIGINAL_TRACK, OTHER_THEME],
 
 ];
 // var ary_SongData = [
