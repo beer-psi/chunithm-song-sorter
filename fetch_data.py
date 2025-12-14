@@ -7,24 +7,29 @@
 import httpx
 
 client = httpx.Client()
-data = client.get("https://raw.githubusercontent.com/zkrising/Tachi/refs/heads/main/seeds/collections/songs-chunithm.json").json()
+data = client.get("https://chunithm.beerpsi.cc/songs").json()
 
-for datum in data:
-    if datum["data"]["genre"] != "ORIGINAL":
-        continue
+with open("tmp.js", "w", encoding="utf-8") as f:
+    f.write("[\n")
+    for datum in data:
+        if datum["genre"] != "ORIGINAL":
+            continue
 
-    title = datum["title"]
-    artist = datum["artist"]
-    version = datum["data"]["displayVersion"]
+        title = datum["title"]
+        artist = datum["artist"]
+        version = datum["version"]
 
-    escaped_title = title.replace("\"", "\\\"")
-    escaped_artist = artist.replace("\"", "\\\"")
+        escaped_title = title.replace('"', '\\"')
+        escaped_artist = artist.replace('"', '\\"')
 
-    if version == "CHUNITHM":
-        version = "ORIGIN"
-    elif version == "CHUNITHM PLUS":
-        version = "ORIGIN_PLUS"
-    else:
-        version = version.removeprefix("CHUNITHM ").replace(" ", "_")
+        if version == "CHUNITHM":
+            version = "ORIGIN"
+        elif version == "CHUNITHM PLUS":
+            version = "ORIGIN_PLUS"
+        else:
+            version = version.replace(" ", "_")
 
-    print(f"[\"{escaped_title}\", new Set([TITLE.{version}]), {{ title: \"{version}\" }}, \"\", \"{escaped_artist}\", ORIGINAL_TRACK, OTHER_THEME],")
+        f.write(
+            f'    ["{escaped_title}", new Set([TITLE.{version}]), {{ title: "{version}" }}, "", "{escaped_artist}", ORIGINAL_TRACK, OTHER_THEME],\n'
+        )
+    f.write("]\n")
