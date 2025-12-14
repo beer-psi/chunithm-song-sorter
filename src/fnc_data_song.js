@@ -816,8 +816,7 @@ var ary_SongData = [
     ["Stardust:RAY", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "QCgwPKaAaCQ", "kanone vs. BlackY", ORIGINAL_TRACK, OTHER_THEME],
     ["Resolution", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "GbaVSbkGmx8", "曲：ANCHOR／歌：皇城 セツナ(CV：八巻 アンナ)", ORIGINAL_TRACK, OTHER_THEME],
     ["ヒストリー×ブレイカー", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "aDi0xtMy86A", "曲：中土智博／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: Not game size
-    ["ロッキンピンクモンスター (豚乙女ランコVo Ver.)", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "G7VKQ1r8SUM", "豚乙女", ORIGINAL_TRACK, OTHER_THEME],
+    ["ロッキンピンクモンスター (豚乙女ランコVo Ver.)", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "IMP93mmbaLs", "豚乙女", ORIGINAL_TRACK, OTHER_THEME],
     ["FLUFFY FLASH (C-Show & Maozon Remix)", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "DL2MpRhG4Xw", "C-Show & Maozon", ORIGINAL_TRACK, OTHER_THEME],
     ["光焔のラテラルアーク", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "e_CO9Vaf29Y", "大国奏音", ORIGINAL_TRACK, OTHER_THEME],
     ["Selenadia", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "iu8FRfLmgTM", "Lime", ORIGINAL_TRACK, OTHER_THEME],
@@ -828,13 +827,10 @@ var ary_SongData = [
     ["Recollect Lines", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "fGNN-tM4rZ8", "ああああ vs ぺのれり", ORIGINAL_TRACK, OTHER_THEME],
     ["Memories of O.N.G.E.K.I.", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "yWXeoDCMMNs", "SEGA SOUND STAFF arranged by Kanon Oguni", ORIGINAL_TRACK, OTHER_THEME],
     ["HEADLINER", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "0h-nIvlvWYY", "曲：田中秀和／歌：オンゲキシューターズ", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: Not game size
-    ["青空コントレール", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "wDE2D6eE1Hc", "曲：脇眞富（Arte Refact）／歌：星咲 あかり(CV：赤尾 ひかる)、日向 千夏(CV：岡咲 美保)", ORIGINAL_TRACK, OTHER_THEME],
+    ["青空コントレール", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "ZiK00ZlFCi0", "曲：脇眞富（Arte Refact）／歌：星咲 あかり(CV：赤尾 ひかる)、日向 千夏(CV：岡咲 美保)", ORIGINAL_TRACK, OTHER_THEME],
     ["イルミネーション", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "8i5rmlkSX5I", "曲：央海加亥／歌：柏木 咲姫(CV：石見 舞菜香)", ORIGINAL_TRACK, OTHER_THEME],
     ["Diamond Dust -crystal piano Arr.-", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "Wsqj3I5a_c8", "igel", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: Not game size
-    ["Flower", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "heqXPV4k3r0", "曲：白戸佑輔(Dream Monster)／歌：ASTERISM [星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：久保田 梨沙)、三角 葵(CV：春野 杏)]", ORIGINAL_TRACK, OTHER_THEME],
-    
+    ["Flower", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_1]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_1" }, "vPPgvg8At3s", "曲：白戸佑輔(Dream Monster)／歌：ASTERISM [星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：久保田 梨沙)、三角 葵(CV：春野 杏)]", ORIGINAL_TRACK, OTHER_THEME],
     
     ["FestA of PandemoniuM", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "RKRzj7-zvnI", "山本真央樹 vs Masahiro \"Godspeed\" Aoki (feat. Dylan Reavey)", ORIGINAL_TRACK, OTHER_THEME],
     ["いちげき！のテーマ", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "EsxEebcGjps", "曲：ヒゲドライバー／歌：いちげきしゅーたーず！", ORIGINAL_TRACK, OTHER_THEME],
@@ -855,19 +851,15 @@ var ary_SongData = [
     
     ["And Revive The Melody", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "7tnuMGq68DI", "黒魔", ORIGINAL_TRACK, OTHER_THEME],
     ["Dramatic…?", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "bzJyzUnG-AI", "曲：Kijibato／歌：星咲 あかり(CV：赤尾 ひかる)、珠洲島 有栖(CV：長縄 まりあ)、日向 千夏(CV：岡咲 美保)、皇城 セツナ(CV：八巻 アンナ)", ORIGINAL_TRACK, OTHER_THEME],
-    
-    // TODO: No game size
-    ["STEP BY STEP", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "8NBVIvoIAag", "曲：竹内サティフォ／歌：星咲 あかり(CV：赤尾 ひかる)", ORIGINAL_TRACK, OTHER_THEME],
-    ["はっぴ～しゅ～てぃんぐすた～", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "lSkptTe8IWg", "曲：森羅万象／歌：藤沢 柚子(CV：久保田 梨沙)", ORIGINAL_TRACK, OTHER_THEME],
-    ["Event Horizon", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "JPUSb13pY00", "曲：5u5h1／歌：三角 葵(CV：春野 杏)", ORIGINAL_TRACK, OTHER_THEME],
-    
+    ["STEP BY STEP", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "0xwS9ZqcuxM", "曲：竹内サティフォ／歌：星咲 あかり(CV：赤尾 ひかる)", ORIGINAL_TRACK, OTHER_THEME],
+    ["はっぴ～しゅ～てぃんぐすた～", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "XSU3QE9Lp7M", "曲：森羅万象／歌：藤沢 柚子(CV：久保田 梨沙)", ORIGINAL_TRACK, OTHER_THEME],
+    ["Event Horizon", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "9F--au3dhj8", "曲：5u5h1／歌：三角 葵(CV：春野 杏)", ORIGINAL_TRACK, OTHER_THEME],
     ["THE TRiANGLE", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "qiP2qbFQ0Z0", "Yuta Imai", ORIGINAL_TRACK, OTHER_THEME],
     ["Livmetarryr", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "_ajXn5PpaPs", "a_hisa", ORIGINAL_TRACK, OTHER_THEME],
     ["Cogito ergo sum", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "AzSV_n_clWk", "佐藤 優樹", ORIGINAL_TRACK, OTHER_THEME],
     ["淵底のグレイ・ユークロニア", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "yR3J8BdfIeY", "打打だいず vs. siromaru vs. Tanchiky", ORIGINAL_TRACK, OTHER_THEME],
     ["冥乱幻舞", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "TX8P2QAY-nE", "PRASTIK DANCEFLOOR", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: No game size
-    ["アイシング・ドリーム", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "PV85ADWOrZE", "曲：卯乃／歌：珠洲島 有栖(CV：長縄 まりあ)、西館 ハク(CV：佐藤 実季)", ORIGINAL_TRACK, OTHER_THEME],
+    ["アイシング・ドリーム", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "GJgRiqzH7o4", "曲：卯乃／歌：珠洲島 有栖(CV：長縄 まりあ)、西館 ハク(CV：佐藤 実季)", ORIGINAL_TRACK, OTHER_THEME],
     ["Individual on parade!", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "CZcgYV-uefc", "曲：渡部チェル／歌：珠洲島 有栖(CV：長縄 まりあ)、皇城 セツナ(CV：八巻 アンナ)、柏木 咲姫(CV：石見 舞菜香)、日向 千夏(CV：岡咲 美保)、井之原 小星(CV：ももの はるな)", ORIGINAL_TRACK, OTHER_THEME],
     ["Lazulis Gambit", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "xq8ax1VN1s8", "Acotto", ORIGINAL_TRACK, OTHER_THEME],
     ["ツムギボシ（starring オンゲキシューターズ）", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "1gIaBquT2Tw", "曲：大国奏音／歌：東雲 つむぎ(CV：和泉 風花)、井之原 小星(CV：ももの はるな)、星咲 あかり(CV：赤尾 ひかる)", ORIGINAL_TRACK, OTHER_THEME],
@@ -881,8 +873,7 @@ var ary_SongData = [
     ["Crazy Party Rush", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "OSHNFZ6YqDs", "ミツキヨ", ORIGINAL_TRACK, OTHER_THEME],
     ["Flow Into You", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "yxSqM0vLFyI", "ARForest", ORIGINAL_TRACK, OTHER_THEME],
     ["共鳴合体 オトゲリヲン", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "47hhR7oQHbg", "Tanchiky feat.からめる", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: No game size
-    ["Ai Me", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "Q43t6TVDvHY", "曲：Feryquitous／歌：高瀬 梨緒(CV：久保 ユリカ)", ORIGINAL_TRACK, OTHER_THEME],
+    ["Ai Me", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "eHz5Lnrk2to", "曲：Feryquitous／歌：高瀬 梨緒(CV：久保 ユリカ)", ORIGINAL_TRACK, OTHER_THEME],
     ["がおっと!!最強☆ぱーりーないと", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "YZIW-VKCNgg", "曲：KENSUKE／歌：結城 莉玖(CV：朝日奈 丸佳)", ORIGINAL_TRACK, OTHER_THEME],
     ["耐冬花麗", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "KmHYYEFtfEs", "曲：テラ(少女理論観測所)／歌：藍原 椿(CV：橋本 ちなみ)", ORIGINAL_TRACK, OTHER_THEME],
     ["Never Ending Adventure", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "JiXYGWZ72rs", "提供", ORIGINAL_TRACK, OTHER_THEME],
