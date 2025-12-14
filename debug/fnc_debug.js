@@ -51,6 +51,7 @@ function showDataForTitle(nID)
 				// Youtube
 				const youtubeCell = row.insertCell(-1);
 				const youtube = youtubeCell.appendChild(createElement("iframe"));
+                youtube.referrerPolicy = "strict-origin-when-cross-origin";
 				youtube.width = "500";
 				youtube.height = "180";
 				youtube.frameBorder = "0";

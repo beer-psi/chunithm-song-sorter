@@ -844,6 +844,7 @@ function fnc_UpdateOptions()
 			if(obj_TempData[TRACK_YOUTUBE_ID] != "na")
 			{
 				var obj_Item = createElement("iframe");
+				obj_Item.referrerPolicy = "strict-origin-when-cross-origin";
 				obj_Item.width = "180";
 				obj_Item.height = "180";
 				obj_Item.frameBorder = "0";
