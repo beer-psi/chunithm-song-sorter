@@ -198,6 +198,7 @@ var ary_SongData = [
 	["Contrapasso -inferno-", new Set([TITLE.ORIGIN_PLUS]), { title: "ORIGIN_PLUS" }, "5gB_KBgxW5A", "t+pazolite", ORIGINAL_TRACK, OTHER_THEME],
 	["GEMINI -C-", new Set([TITLE.ORIGIN_PLUS]), { title: "ORIGIN_PLUS" }, "RamHpo7LatE", "Tatsh", ORIGINAL_TRACK, OTHER_THEME],
 	["SNIPE WHOLE", new Set([TITLE.ORIGIN_PLUS]), { title: "ORIGIN_PLUS" }, "VNPGN9fIjtA", "Masayoshi Minoshima feat.Mei Ayakura", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["サウンドプレイヤー", new Set([TITLE.AIR]), { title: "AIR" }, "99bvBC_s1Cw", "tilt-six feat.バル", ORIGINAL_TRACK, OTHER_THEME],
 	["玩具狂奏曲 -終焉-", new Set([TITLE.AIR]), { title: "AIR" }, "RwFw9-ze6K4", "きくお", ORIGINAL_TRACK, OTHER_THEME],
 	["紅華刑", new Set([TITLE.AIR]), { title: "AIR" }, "JjOw3zFqO3Y", "-45", ORIGINAL_TRACK, OTHER_THEME],
@@ -231,6 +232,7 @@ var ary_SongData = [
 	["最愛テトラグラマトン", new Set([TITLE.AIR_PLUS]), { title: "AIR_PLUS" }, "Daifx0RR5w0", "片霧烈火", ORIGINAL_TRACK, OTHER_THEME],
 	["混沌を越えし我らが神聖なる調律主を讃えよ", new Set([TITLE.AIR_PLUS]), { title: "AIR_PLUS" }, "7xVKmkN8fHM", "穴山大輔", ORIGINAL_TRACK, OTHER_THEME],
 	["We Gonna Party -Feline Groove Mix-", new Set([TITLE.AIR_PLUS]), { title: "AIR_PLUS" }, "G3Bi7NGLhwI", "Morrigan feat.Lily", ORIGINAL_TRACK, OTHER_THEME],
+
 	["光線チューニング", new Set([TITLE.STAR]), { title: "STAR" }, "sUIzvcmTz-0", "ナユタン星人", ORIGINAL_TRACK, OTHER_THEME],
 	["立川浄穢捕物帳", new Set([TITLE.STAR]), { title: "STAR" }, "GJXZd4UXEb8", "青島探偵事務所器楽捜査部B担", ORIGINAL_TRACK, OTHER_THEME],
 	["眠れぬ夜君を想フ", new Set([TITLE.STAR]), { title: "STAR" }, "YGh0i_yTru0", "baker", ORIGINAL_TRACK, OTHER_THEME],
@@ -254,6 +256,7 @@ var ary_SongData = [
 	["時の冒険者", new Set([TITLE.STAR]), { title: "STAR" }, "vcfofN0rGSI", "40mP feat.シャノ", ORIGINAL_TRACK, OTHER_THEME],
 	["Rendezvous", new Set([TITLE.STAR]), { title: "STAR" }, "3hWHWwg3w2M", "Crusher-P", ORIGINAL_TRACK, OTHER_THEME],
 	["EXECUTOR", new Set([TITLE.STAR]), { title: "STAR" }, "rfKrU0ZhJE0", "doriko feat.VALSHE", ORIGINAL_TRACK, OTHER_THEME],
+
 	["BlazinG AIR", new Set([TITLE.STAR_PLUS]), { title: "STAR_PLUS" }, "46OZNraGKhs", "kanone", ORIGINAL_TRACK, OTHER_THEME],
 	["Sparking Revolver", new Set([TITLE.STAR_PLUS]), { title: "STAR_PLUS" }, "n7AqRLbeaI0", "xi", ORIGINAL_TRACK, OTHER_THEME],
 	["Gate of Doom", new Set([TITLE.STAR_PLUS]), { title: "STAR_PLUS" }, "n5vJZDyDPKY", "Masahiro “Godspeed” Aoki", ORIGINAL_TRACK, OTHER_THEME],
@@ -270,6 +273,7 @@ var ary_SongData = [
 	["Drivessover", new Set([TITLE.STAR_PLUS]), { title: "STAR_PLUS" }, "1N2BmY6pl4g", "Taishi", ORIGINAL_TRACK, OTHER_THEME],
 	["Surveiller et punir", new Set([TITLE.STAR_PLUS]), { title: "STAR_PLUS" }, "3W8SQLkQGJY", "cybermiso", ORIGINAL_TRACK, OTHER_THEME],
 	["業 -善なる神とこの世の悪について-", new Set([TITLE.STAR_PLUS]), { title: "STAR_PLUS" }, "G4Kf0bUAm4o", "光吉猛修 VS 穴山大輔", ORIGINAL_TRACK, OTHER_THEME],
+
 	["朝焼けプラットホーム", new Set([TITLE.AMAZON]), { title: "AMAZON" }, "g0r6i7AZEfw", "40mP feat.シャノ", ORIGINAL_TRACK, OTHER_THEME],
 	["PAST", new Set([TITLE.AMAZON]), { title: "AMAZON" }, "hP3R0WVO7F0", "164 feat.ウォルピスカーター", ORIGINAL_TRACK, OTHER_THEME],
 	["Blessed", new Set([TITLE.AMAZON]), { title: "AMAZON" }, "DdhIbqglrF8", "Palme", ORIGINAL_TRACK, OTHER_THEME],
@@ -295,6 +299,7 @@ var ary_SongData = [
 	["Sqlupp", new Set([TITLE.AMAZON]), { title: "AMAZON" }, "X5tNUpDx_9Q", "owl＊tree feat.yaki＊tree", ORIGINAL_TRACK, OTHER_THEME],
 	["Climax", new Set([TITLE.AMAZON]), { title: "AMAZON" }, "rkw5jFDaEFM", "USAO", ORIGINAL_TRACK, OTHER_THEME],
 	["Innocent Truth", new Set([TITLE.AMAZON]), { title: "AMAZON" }, "yqbtUxVCZY4", "Endorfin.", ORIGINAL_TRACK, OTHER_THEME],
+
 	["エンジェデビ", new Set([TITLE.AMAZON_PLUS]), { title: "AMAZON_PLUS" }, "AKXz97tmVlA", "中路もとめ feat.砂糖子", ORIGINAL_TRACK, OTHER_THEME],
 	["Servant of Love", new Set([TITLE.AMAZON_PLUS]), { title: "AMAZON_PLUS" }, "kwOo3RZazxA", "PandaBoY", ORIGINAL_TRACK, OTHER_THEME],
 	["アイリちゃんは暗黒魔導士!", new Set([TITLE.AMAZON_PLUS]), { title: "AMAZON_PLUS" }, "ZhssI4glYJM", "MOSAIC.WAV", ORIGINAL_TRACK, OTHER_THEME],
@@ -311,6 +316,7 @@ var ary_SongData = [
 	["GIGA DRIVE", new Set([TITLE.AMAZON_PLUS]), { title: "AMAZON_PLUS" }, "umsyNjrCHmA", "黒沢ダイスケ", ORIGINAL_TRACK, OTHER_THEME],
 	["Rebellion", new Set([TITLE.AMAZON_PLUS]), { title: "AMAZON_PLUS" }, "NGiEMbOQ-Js", "Kai", ORIGINAL_TRACK, OTHER_THEME],
 	["Vibrant Verve", new Set([TITLE.AMAZON_PLUS]), { title: "AMAZON_PLUS" }, "Ed98AjTprcA", "siqlo", ORIGINAL_TRACK, OTHER_THEME],
+
 	["神威 (NAOKI × ZPP MIX)", new Set([TITLE.CRYSTAL]), { title: "CRYSTAL" }, "1RmWoBcVqjM", "NAOKI MAEDA", ORIGINAL_TRACK, OTHER_THEME],
 	["サヴァイバル・キリング・メーカー", new Set([TITLE.CRYSTAL]), { title: "CRYSTAL" }, "aUTpE24S2qs", "じーざす（ワンダフル☆オポチュニティ！） ft.96猫", ORIGINAL_TRACK, OTHER_THEME],
 	["ツクヨミステップ", new Set([TITLE.CRYSTAL]), { title: "CRYSTAL" }, "py2lVCmGxLc", "ユリイ・カノン feat.nameless", ORIGINAL_TRACK, OTHER_THEME],
@@ -336,6 +342,7 @@ var ary_SongData = [
 	["Fidget Dancer", new Set([TITLE.CRYSTAL]), { title: "CRYSTAL" }, "lTAlden4YCA", "nora2r", ORIGINAL_TRACK, OTHER_THEME],
 	["Megameteor", new Set([TITLE.CRYSTAL]), { title: "CRYSTAL" }, "1iOnjwUVTWo", "削除", ORIGINAL_TRACK, OTHER_THEME],
 	["Trrricksters!!", new Set([TITLE.CRYSTAL]), { title: "CRYSTAL" }, "_GeIahZk31I", "s-don vs. 翡乃イスカ", ORIGINAL_TRACK, OTHER_THEME],
+
 	["Ghost Dance", new Set([TITLE.CRYSTAL_PLUS]), { title: "CRYSTAL_PLUS" }, "fDcpikvBVrU", "亜沙 feat.くろくも", ORIGINAL_TRACK, OTHER_THEME],
 	["モノクロトワイライト", new Set([TITLE.CRYSTAL_PLUS]), { title: "CRYSTAL_PLUS" }, "aLFcYgxmels", "カラフル・サウンズ・ポート", ORIGINAL_TRACK, OTHER_THEME],
 	["シャッキーーン！！", new Set([TITLE.CRYSTAL_PLUS]), { title: "CRYSTAL_PLUS" }, "AJQOpo_9gb0", "黒魔", ORIGINAL_TRACK, OTHER_THEME],
@@ -354,6 +361,7 @@ var ary_SongData = [
 	["Hainuwele", new Set([TITLE.CRYSTAL_PLUS]), { title: "CRYSTAL_PLUS" }, "PBtoPb6D4MY", "ETIA.", ORIGINAL_TRACK, OTHER_THEME],
 	["宿星審判", new Set([TITLE.CRYSTAL_PLUS]), { title: "CRYSTAL_PLUS" }, "VxPRLDQvz8Y", "suzu", ORIGINAL_TRACK, OTHER_THEME],
 	["The Metaverse -First story of the SeelischTact-", new Set([TITLE.CRYSTAL_PLUS]), { title: "CRYSTAL_PLUS" }, "oG6-1SQ_SuQ", "光吉猛修 VS 目黒将司", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["テリトリーバトル", new Set([TITLE.PARADISE]), { title: "PARADISE" }, "ytrDJFCv8tI", "ツユ", ORIGINAL_TRACK, OTHER_THEME],
 	["ROAD TO DREAM", new Set([TITLE.PARADISE]), { title: "PARADISE" }, "TTl_WHgueic", "達見 恵 featured by 佐野宏晃", ORIGINAL_TRACK, OTHER_THEME],
 	["絶対トキメキデリバリー", new Set([TITLE.PARADISE]), { title: "PARADISE" }, "3HEVmi7vYe8", "TOKOTOKO（西沢さんP） feat.あやぽんず＊", ORIGINAL_TRACK, OTHER_THEME],
@@ -373,6 +381,7 @@ var ary_SongData = [
 	["《選別》 ～ Refuge", new Set([TITLE.PARADISE]), { title: "PARADISE" }, "ail-7KBz0cE", "Iris", ORIGINAL_TRACK, OTHER_THEME],
 	["《本能》 ～ ReCoda", new Set([TITLE.PARADISE]), { title: "PARADISE" }, "o5kiIEJxLyE", "Spiegel vs Yukino", ORIGINAL_TRACK, OTHER_THEME],
 	["赤壁、大炎上！！", new Set([TITLE.PARADISE]), { title: "PARADISE" }, "n3W0_CQLysI", "Cranky feat.おもしろ三国志", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["レイニーカラー・ウォーターカラー", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "OJXNqIupB-w", "烏屋茶房 feat.利香", ORIGINAL_TRACK, OTHER_THEME],
 	["おいでよ！ 高須らいむランド", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "sWcauHMvkoU", "柏木るざりん feat.青葉りんご", ORIGINAL_TRACK, OTHER_THEME],
 	["Charlatan", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "amMm8YnK0yk", "煮ル果実×びす", ORIGINAL_TRACK, OTHER_THEME],
@@ -393,6 +402,7 @@ var ary_SongData = [
 	["Tattoo", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "9iUBRT-ZYsw", "みきとP feat. victream", ORIGINAL_TRACK, OTHER_THEME],
 	["呪歌-JyuKa-", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "JalVbzg2Izs", "ガルナ(オワタP) feat.水槽", ORIGINAL_TRACK, OTHER_THEME],
 	["再生不能", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "Cwsxu1R0QIY", "ろくろ feat.鹿乃", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["UltraNeon", new Set([TITLE.NEW]), { title: "NEW" }, "LGhbQY74ihY", "eoll", ORIGINAL_TRACK, OTHER_THEME],
 	["雪男", new Set([TITLE.NEW]), { title: "NEW" }, "ARBrOpScJ8M", "かねこちはる", ORIGINAL_TRACK, OTHER_THEME],
 	["DDDD", new Set([TITLE.NEW]), { title: "NEW" }, "Eb2HZsWgTTc", "monaca:factory feat.NORISTRY", ORIGINAL_TRACK, OTHER_THEME],
@@ -411,11 +421,13 @@ var ary_SongData = [
 	["Echoes", new Set([TITLE.NEW]), { title: "NEW" }, "wuRyqM_s8Hc", "Aiobahn", ORIGINAL_TRACK, OTHER_THEME],
 	["Super Kitsch Mode", new Set([TITLE.NEW]), { title: "NEW" }, "UeCcAyjHxSE", "Avec Avec", ORIGINAL_TRACK, OTHER_THEME],
 	["Pre Paid Pog Punk Panic", new Set([TITLE.NEW]), { title: "NEW" }, "HVfyUKbIt50", "Hercelot", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["自分勝手Dazzling", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "-n9VNs5LSrE", "星街すいせい（ホロライブ）", ORIGINAL_TRACK, OTHER_THEME],
 	["Utopithm", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "oIF3MG-fSCQ", "memex", ORIGINAL_TRACK, OTHER_THEME],
 	["妖怪ですから", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "26FCMEF89so", "ぼっちぼろまる", ORIGINAL_TRACK, OTHER_THEME],
 	["Glory Days", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "UHkpZKl9TGU", "KMNZ", ORIGINAL_TRACK, OTHER_THEME],
 	["Spiral Fortune", new Set([TITLE.PARADISE_LOST]), { title: "PARADISE_LOST" }, "oFWPZZBYFKI", "Marpril", ORIGINAL_TRACK, OTHER_THEME],
+
 	["《自戒》 ～ Paganelope", new Set([TITLE.NEW]), { title: "NEW" }, "7gFoLHThvAM", "Warak", ORIGINAL_TRACK, OTHER_THEME],
 	["《紀律》 ～ As One", new Set([TITLE.NEW]), { title: "NEW" }, "G1dXwa_PPww", "James Landino feat.Nikki Simmons", ORIGINAL_TRACK, OTHER_THEME],
 	["《種子》 ～ Set You Free", new Set([TITLE.NEW]), { title: "NEW" }, "emvuMhEvJi8", "Iris", ORIGINAL_TRACK, OTHER_THEME],
@@ -427,6 +439,7 @@ var ary_SongData = [
 	["Strange Love", new Set([TITLE.NEW]), { title: "NEW" }, "8XZ4Okh27WI", "削除", ORIGINAL_TRACK, OTHER_THEME],
 	["IMPACT", new Set([TITLE.NEW]), { title: "NEW" }, "yLWl25bgIw0", "USAO feat.光吉猛修", ORIGINAL_TRACK, OTHER_THEME],
 	["POTENTIAL", new Set([TITLE.NEW]), { title: "NEW" }, "zCoD5LtJHoE", "TAG", ORIGINAL_TRACK, OTHER_THEME],
+
 	["タイムカプセル", new Set([TITLE.NEW_PLUS]), { title: "NEW_PLUS" }, "GrbmCDt6qMc", "天月-あまつき-", ORIGINAL_TRACK, OTHER_THEME],
 	["パズルリボン", new Set([TITLE.NEW_PLUS]), { title: "NEW_PLUS" }, "O0pJQto65vk", "すりぃ feat.りょーくん", ORIGINAL_TRACK, OTHER_THEME],
 	["Be4Step", new Set([TITLE.NEW_PLUS]), { title: "NEW_PLUS" }, "vHjINrlv0PE", "tilt-six feat.バル", ORIGINAL_TRACK, OTHER_THEME],
@@ -443,6 +456,7 @@ var ary_SongData = [
 	["Λzure Vixen", new Set([TITLE.NEW_PLUS]), { title: "NEW_PLUS" }, "UFSjVgQr8TE", "かめりあ", ORIGINAL_TRACK, OTHER_THEME],
 	["MALKUTH -The Last Ruler of Terrestrials-", new Set([TITLE.NEW_PLUS]), { title: "NEW_PLUS" }, "Q2M_do6QhAw", "穴山大輔 VS 光吉猛修", ORIGINAL_TRACK, OTHER_THEME],
 	["DA'AT -The First Seeker of Souls-", new Set([TITLE.NEW_PLUS]), { title: "NEW_PLUS" }, "fCsP0tgfcMw", "水野健治 VS 大国奏音", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["インパアフェクシオン・ホワイトガアル", new Set([TITLE.SUN]), { title: "SUN" }, "VLxTXJngUiY", "ツミキ feat.月乃", ORIGINAL_TRACK, OTHER_THEME],
 	["クリーパー", new Set([TITLE.SUN]), { title: "SUN" }, "HDfOgQV69nE", "遼遼 feat.あじっこ", ORIGINAL_TRACK, OTHER_THEME],
 	["Ignition", new Set([TITLE.SUN]), { title: "SUN" }, "I3omVxJoySM", "パソコン音楽クラブ", ORIGINAL_TRACK, OTHER_THEME],
@@ -464,6 +478,7 @@ var ary_SongData = [
 	["Daphnis", new Set([TITLE.SUN]), { title: "SUN" }, "goFEmrr6sqI", "Sobrem a.k.a. Widowmaker", ORIGINAL_TRACK, OTHER_THEME],
 	["To：Be Continued", new Set([TITLE.SUN]), { title: "SUN" }, "fah5f7-zu0k", "uma vs. ガリガリさむし", ORIGINAL_TRACK, OTHER_THEME],
 	["4月1日でございました", new Set([TITLE.SUN]), { title: "SUN" }, "Pe425j7kueo", "Cranky", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["ウルガレオン", new Set([TITLE.SUN_PLUS]), { title: "SUN_PLUS" }, "-oYxZ0ncBBY", "bermei.inazawa", ORIGINAL_TRACK, OTHER_THEME],
 	["やめらんないな!", new Set([TITLE.SUN_PLUS]), { title: "SUN_PLUS" }, "vx4HwGAS5vg", "薄塩指数 feat.KMNZ LIZ", ORIGINAL_TRACK, OTHER_THEME],
 	["Dive a Wave", new Set([TITLE.SUN_PLUS]), { title: "SUN_PLUS" }, "6mSdIEQRhuE", "蝶々P feat.くろくも", ORIGINAL_TRACK, OTHER_THEME],
@@ -484,6 +499,7 @@ var ary_SongData = [
 	["《慈雨》 ～ La Symphonie de Salacia: Agony Movement", new Set([TITLE.SUN_PLUS]), { title: "SUN_PLUS" }, "4YbuoBXHm14", "Jehezukiel (feat.Sagi & KURORAK)", ORIGINAL_TRACK, OTHER_THEME],
 	["《創造》 ～ Cries, beyond The End", new Set([TITLE.SUN_PLUS]), { title: "SUN_PLUS" }, "Da5uJiMdhIY", "Katzeohr & Spiegel", ORIGINAL_TRACK, OTHER_THEME],
 	["Chaotic Ørder", new Set([TITLE.SUN_PLUS]), { title: "SUN_PLUS" }, "xHOF0AZRWu4", "TAG VS Kai", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["少女PastQ", new Set([TITLE.LUMINOUS]), { title: "LUMINOUS" }, "Q8XB06Jx57w", "雄之助 feat.ねんね", ORIGINAL_TRACK, OTHER_THEME],
 	["君と夏色っ！～わんダフルバケーション～", new Set([TITLE.LUMINOUS]), { title: "LUMINOUS" }, "qTy2EtfrbUE", "コバヤシユウヤ（IOSYS） feat.まるもこ", ORIGINAL_TRACK, OTHER_THEME],
 	["MyPaceInvention", new Set([TITLE.LUMINOUS]), { title: "LUMINOUS" }, "CpgNyRkmG2Y", "キツネリ feat.わかばやし", ORIGINAL_TRACK, OTHER_THEME],
@@ -501,6 +517,7 @@ var ary_SongData = [
 	["crazy (about you)", new Set([TITLE.LUMINOUS]), { title: "LUMINOUS" }, "WC1671lngAQ", "kamome sano", ORIGINAL_TRACK, OTHER_THEME],
 	["Dèfandour", new Set([TITLE.LUMINOUS]), { title: "LUMINOUS" }, "ZGWClONVI9Q", "BlackY", ORIGINAL_TRACK, OTHER_THEME],
 	["Ultimate Force", new Set([TITLE.LUMINOUS]), { title: "LUMINOUS" }, "5Gfq5QqDtzE", "削除", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["バッドトリッパー", new Set([TITLE.LUMINOUS_PLUS]), { title: "LUMINOUS_PLUS" }, "J3pwf8bP9Oc", "マイキP", ORIGINAL_TRACK, OTHER_THEME],
 	["幻想ロードオブキング", new Set([TITLE.LUMINOUS_PLUS]), { title: "LUMINOUS_PLUS" }, "6B4X2F57z_E", "DJ SHARPNEL feat. 相川なつ", ORIGINAL_TRACK, OTHER_THEME],
 	["イーヴィルガール", new Set([TITLE.LUMINOUS_PLUS]), { title: "LUMINOUS_PLUS" }, "aqFWgyqmMEY", "Fushi feat.吉乃", ORIGINAL_TRACK, OTHER_THEME],
@@ -523,6 +540,7 @@ var ary_SongData = [
 	["Tuatha Dé Danann", new Set([TITLE.LUMINOUS_PLUS]), { title: "LUMINOUS_PLUS" }, "1JEda9ugnII", "深淵を覗きし者\"Gram\"", ORIGINAL_TRACK, OTHER_THEME],
 	["Acid God", new Set([TITLE.LUMINOUS_PLUS]), { title: "LUMINOUS_PLUS" }, "M51KjS105p4", "Yuta Imai", ORIGINAL_TRACK, OTHER_THEME],
 	["Forsaken Tale", new Set([TITLE.LUMINOUS_PLUS]), { title: "LUMINOUS_PLUS" }, "uBjxgZGVoIE", "t+pazolite", ORIGINAL_TRACK, OTHER_THEME],
+	
 	["メッちゅう殴打", new Set([TITLE.VERSE]), { title: "VERSE" }, "2csRyv-f5-s", "STEAKA feat.山田じぇみ子", ORIGINAL_TRACK, OTHER_THEME],
 	["ドリームケッチャー", new Set([TITLE.VERSE]), { title: "VERSE" }, "O9DUfFwC8Q8", "OUTLOUD feat.NG。", ORIGINAL_TRACK, OTHER_THEME],
 	["ラブリージャッジメント", new Set([TITLE.VERSE]), { title: "VERSE" }, "aJDDY3lnnyQ", "いるかアイス feat.ちょこ", ORIGINAL_TRACK, OTHER_THEME],
