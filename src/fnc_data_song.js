@@ -887,7 +887,6 @@ var ary_SongData = [
     ["耐冬花麗", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "KmHYYEFtfEs", "曲：テラ(少女理論観測所)／歌：藍原 椿(CV：橋本 ちなみ)", ORIGINAL_TRACK, OTHER_THEME],
     ["Never Ending Adventure", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "JiXYGWZ72rs", "提供", ORIGINAL_TRACK, OTHER_THEME],
     ["ALLNIGHT_DANCER", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "WqleOJQo9WM", "brz1128", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: No uploads
     ["Nýx", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "2Wu_IEwqABM", "7mai", ORIGINAL_TRACK, OTHER_THEME],
     ["Sargasso", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "3MU4WvBM7jY", "Aoi", ORIGINAL_TRACK, OTHER_THEME],
     ["[HALO]", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "5d24JPzeGTI", "Blacklolita", ORIGINAL_TRACK, OTHER_THEME],
