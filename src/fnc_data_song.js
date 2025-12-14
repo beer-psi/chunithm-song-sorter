@@ -713,12 +713,10 @@ var ary_SongData = [
     ["絆はずっとGrowing Up!!!", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "dOeKC5Tdto4", "曲：原田篤（Arte Refact）／歌：ASTERISM [星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：久保田 梨沙)、三角 葵(CV：春野 杏)]", ORIGINAL_TRACK, OTHER_THEME],
     ["AstrøNotes.", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "SKa9FPoxu_0", "MisoilePunch♪", ORIGINAL_TRACK, OTHER_THEME],
     ["Iudicium “Apocalypsis Mix”", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "5LJxp867Crc", "曲：Powerless／歌：柏木 咲姫(CV：石見 舞菜香)、柏木 美亜(CV：和氣 あず未)", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: Not game size
-    ["スン(マイル)フラワー～Sun(Mile)Flower", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "OwAJL4AuyCc", "曲：Funta7／歌：星咲 あかり(CV：赤尾 ひかる)、日向 千夏(CV：岡咲 美保)", ORIGINAL_TRACK, OTHER_THEME],
+    ["スン(マイル)フラワー～Sun(Mile)Flower", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "EyNNmf1a6lI", "曲：Funta7／歌：星咲 あかり(CV：赤尾 ひかる)、日向 千夏(CV：岡咲 美保)", ORIGINAL_TRACK, OTHER_THEME],
     ["Singularity", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "iKy6SZzbISk", "technoplanet", ORIGINAL_TRACK, OTHER_THEME],
     ["脳天直撃", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "H5RL-cwZN8E", "黒沢ダイスケ VS 穴山大輔", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: Not game size
-    ["PinqPiq (xovevox Remix)", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "Ja_wHryMBBg", "owl＊tree Remixed by sasakure.UK", ORIGINAL_TRACK, OTHER_THEME],
+    ["PinqPiq (xovevox Remix)", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "WB4BEZDPc7o", "owl＊tree Remixed by sasakure.UK", ORIGINAL_TRACK, OTHER_THEME],
     ["Jörqer", new Set([TITLE.ONGEKI_SUMMER_PLUS]), { title: "ONGEKI_SUMMER_PLUS" }, "u6o98Tupkzo", "owl＊tree feat.yu＊tree", ORIGINAL_TRACK, OTHER_THEME],
     
     ["No Limit RED Force", new Set([TITLE.ONGEKI_RED]), { title: "ONGEKI_RED" }, "nyPkOlZicEg", "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ", ORIGINAL_TRACK, OTHER_THEME],
@@ -785,8 +783,7 @@ var ary_SongData = [
     ["B WiZ U", new Set([TITLE.ONGEKI_BRIGHT]), { title: "ONGEKI_BRIGHT" }, "LWmXjbWi3II", "Getty", ORIGINAL_TRACK, OTHER_THEME],
     ["Diamond Dust", new Set([TITLE.ONGEKI_BRIGHT]), { title: "ONGEKI_BRIGHT" }, "YDERazk-MSY", "Masahiro “Godspeed” Aoki", ORIGINAL_TRACK, OTHER_THEME],
     ["I got a gig tonight!", new Set([TITLE.ONGEKI_BRIGHT]), { title: "ONGEKI_BRIGHT" }, "9eiwACHJllg", "曲：大熊淳生（Arte Refact）／歌：結城 莉玖(CV：朝日奈 丸佳)", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: Not game size
-    ["いつか花咲くその前に", new Set([TITLE.ONGEKI_BRIGHT]), { title: "ONGEKI_BRIGHT" }, "28F8volxwMo", "曲：Kensuke／歌：逢坂 茜(CV：大空 直美)、藍原 椿(CV：橋本 ちなみ)", ORIGINAL_TRACK, OTHER_THEME],
+    ["いつか花咲くその前に", new Set([TITLE.ONGEKI_BRIGHT]), { title: "ONGEKI_BRIGHT" }, "tk58mK1Ywas", "曲：Kensuke／歌：逢坂 茜(CV：大空 直美)、藍原 椿(CV：橋本 ちなみ)", ORIGINAL_TRACK, OTHER_THEME],
     ["Handmade Good Day", new Set([TITLE.ONGEKI_BRIGHT]), { title: "ONGEKI_BRIGHT" }, "PwM1gaKG93s", "曲：矢鴇つかさ（Arte Refact）／歌：珠洲島 有栖(CV：長縄 まりあ)、皇城 セツナ(CV：八巻 アンナ)", ORIGINAL_TRACK, OTHER_THEME],
     ["Suspiro", new Set([TITLE.ONGEKI_BRIGHT]), { title: "ONGEKI_BRIGHT" }, "C-QjxMzD6_A", "とろまる", ORIGINAL_TRACK, OTHER_THEME],
     ["霧の書斎", new Set([TITLE.ONGEKI_BRIGHT]), { title: "ONGEKI_BRIGHT" }, "km1TOYSl3Kg", "igel", ORIGINAL_TRACK, OTHER_THEME],
@@ -844,8 +841,7 @@ var ary_SongData = [
     ["Starlight★Limited", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "4MghK_SHpW8", "カタオカツグミ", ORIGINAL_TRACK, OTHER_THEME],
     ["Azucar", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "AckDiIMrkIY", "litmus*", ORIGINAL_TRACK, OTHER_THEME],
     ["夏宵スターマイン", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "xkTishSRxj8", "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: No audio on youtube wtf
-    // ["オン×ステージ！", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "", "曲：塩野 海／歌：星咲 あかり(CV：赤尾 ひかる)、式宮 舞菜(CV：牧野 天音)", ORIGINAL_TRACK, OTHER_THEME],
+    ["オン×ステージ！", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "2gPSF_qFcOg", "曲：塩野 海／歌：星咲 あかり(CV：赤尾 ひかる)、式宮 舞菜(CV：牧野 天音)", ORIGINAL_TRACK, OTHER_THEME],
     ["MeteorSnow", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "_CvIYAXiTLM", "あず♪", ORIGINAL_TRACK, OTHER_THEME],
     ["Tricky Treat!!!", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "CbaOPDl_AY4", "曲：Kijibato(Dream Monster)／歌：逢坂 茜(CV：大空 直美)、高瀬 梨緒(CV：久保 ユリカ)、柏木 咲姫(CV：石見 舞菜香)", ORIGINAL_TRACK, OTHER_THEME],
     ["Buck's Fizz", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_2]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_2" }, "X4sqcX7RY5o", "わかどり", ORIGINAL_TRACK, OTHER_THEME],
@@ -876,15 +872,13 @@ var ary_SongData = [
     ["Lazulis Gambit", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "xq8ax1VN1s8", "Acotto", ORIGINAL_TRACK, OTHER_THEME],
     ["ツムギボシ（starring オンゲキシューターズ）", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "1gIaBquT2Tw", "曲：大国奏音／歌：東雲 つむぎ(CV：和泉 風花)、井之原 小星(CV：ももの はるな)、星咲 あかり(CV：赤尾 ひかる)", ORIGINAL_TRACK, OTHER_THEME],
     ["Chant Say Yeah!", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "PAhwHQKi-4g", "MYUKKE.", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: No uploads
-    // [".locusignore", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "", "q/stol", ORIGINAL_TRACK, OTHER_THEME],
+    [".locusignore", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "liV2sNjJjJw", "q/stol", ORIGINAL_TRACK, OTHER_THEME],
     ["Rhythm of Love", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "0ngKOBG8uck", "DÉ DÉ MOUSE", ORIGINAL_TRACK, OTHER_THEME],
     ["MY GLORY WANTED!!!", new Set([TITLE.ONGEKI_BRIGHT_MEMORY_ACT_3]), { title: "ONGEKI_BRIGHT_MEMORY_ACT_3" }, "ZOeab_a5Mlk", "曲：Kijibato／歌：R.B.P. [九條 楓(CV：佳村 はるか)、逢坂 茜(CV：大空 直美)、珠洲島 有栖(CV：長縄 まりあ)]", ORIGINAL_TRACK, OTHER_THEME],
     
     ["WakeUP MakeUP FEVER!", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "1juOtaUm-ZY", "曲：アオワイファイ／歌：オンゲキシューターズ", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: No uploads
-    // ["Earthly Light", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "", "曲：ヘリP／歌：Trium Tone＆⊿TRiEDGE", ORIGINAL_TRACK, OTHER_THEME],
-    // ["Crazy Party Rush", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "", "ミツキヨ", ORIGINAL_TRACK, OTHER_THEME],
+    ["Earthly Light", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "IZ63RdbGPSE", "曲：ヘリP／歌：Trium Tone＆⊿TRiEDGE", ORIGINAL_TRACK, OTHER_THEME],
+    ["Crazy Party Rush", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "OSHNFZ6YqDs", "ミツキヨ", ORIGINAL_TRACK, OTHER_THEME],
     ["Flow Into You", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "yxSqM0vLFyI", "ARForest", ORIGINAL_TRACK, OTHER_THEME],
     ["共鳴合体 オトゲリヲン", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "47hhR7oQHbg", "Tanchiky feat.からめる", ORIGINAL_TRACK, OTHER_THEME],
     // TODO: No game size
@@ -894,7 +888,7 @@ var ary_SongData = [
     ["Never Ending Adventure", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "JiXYGWZ72rs", "提供", ORIGINAL_TRACK, OTHER_THEME],
     ["ALLNIGHT_DANCER", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "WqleOJQo9WM", "brz1128", ORIGINAL_TRACK, OTHER_THEME],
     // TODO: No uploads
-    // ["Nýx", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "", "7mai", ORIGINAL_TRACK, OTHER_THEME],
+    ["Nýx", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "2Wu_IEwqABM", "7mai", ORIGINAL_TRACK, OTHER_THEME],
     ["Sargasso", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "3MU4WvBM7jY", "Aoi", ORIGINAL_TRACK, OTHER_THEME],
     ["[HALO]", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "5d24JPzeGTI", "Blacklolita", ORIGINAL_TRACK, OTHER_THEME],
     ["パピプペ Popping！ Talk！", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "LjBWE1XkA2M", "曲：脇眞富／歌：オンゲキシューターズ", ORIGINAL_TRACK, OTHER_THEME],
@@ -906,7 +900,6 @@ var ary_SongData = [
     ["Xingularity", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "qbVSbSbJfj4", "Alicemetix ex-ZAQUVA", ORIGINAL_TRACK, OTHER_THEME],
     ["girls.exe", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "t0xj5ZxWU3c", "rintaro soma", ORIGINAL_TRACK, OTHER_THEME],
     ["Tachyon", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "7MzOWA9a_x0", "Zekk", ORIGINAL_TRACK, OTHER_THEME],
-    // TODO: No uploads
-    // ["lovelynonsense", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "", "tn-shi", ORIGINAL_TRACK, OTHER_THEME],
-    // ["六連星", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "", "taichi hiyama", ORIGINAL_TRACK, OTHER_THEME],
+    ["lovelynonsense", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "8y3K3U69ByU", "tn-shi", ORIGINAL_TRACK, OTHER_THEME],
+    ["六連星", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "0-7j9W8D2rY", "taichi hiyama", ORIGINAL_TRACK, OTHER_THEME],
 ];
