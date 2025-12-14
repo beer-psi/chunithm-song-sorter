@@ -52,7 +52,19 @@ const TITLE = deepFreeze({
 	LUMINOUS_PLUS: { name: "CHUNITHM LUMINOUS PLUS", image: "luminousplus.png", shortName: "LUMINOUS PLUS", abbrev: "LUMINOUS+" },
 	VERSE: { name: "CHUNITHM VERSE", image: "verse.png", shortName: "VERSE", abbrev: "VERSE" },
     X_VERSE: { name: "CHUNITHM X-VERSE", image: "x-verse.png", shortName: "X-VERSE", abbrev: "X-VERSE" },
-    X_VERSE_X: { name: "CHUNITHM X-VERSE-X", image: "x-verse.png", shortName: "X-VERSE-X", abbrev: "X-VERSE-X" },
+    // X_VERSE_X: { name: "CHUNITHM X-VERSE-X", image: "x-verse-x.png", shortName: "X-VERSE-X", abbrev: "X-VERSE-X" },
+    
+    // ONGEKI: { name: "オンゲキ", image: "ongeki.png", shortName: "オンゲキ", abbrev: "オンゲキ" },
+    // ONGEKI_PLUS: { name: "オンゲキ PLUS", image: "ongekiplus.png", shortName: "PLUS", abbrev: "オンゲキ+" },
+    // ONGEKI_SUMMER: { name: "オンゲキ SUMMER", image: "summer.png", shortName: "SUMMER", abbrev: "SUMMER" },
+    // ONGEKI_SUMMER_PLUS: { name: "オンゲキ SUMMER PLUS", image: "summerplus.png", shortName: "SUMMER PLUS", abbrev: "SUMMER+" },
+    // ONGEKI_RED: { name: "オンゲキ R.E.D.", image: "red.png", shortName: "RED", abbrev: "RED" },
+    // ONGEKI_RED_PLUS: { name: "オンゲキ R.E.D. PLUS", image: "redplus.png", shortName: "RED PLUS", abbrev: "RED+" },
+    // ONGEKI_BRIGHT: { name: "オンゲキ bright", image: "bright.png", shortName: "bright", abbrev: "bright" },
+    // ONGEKI_BRIGHT_MEMORY_ACT_1: { name: "オンゲキ bright MEMORY Act.1", image: "brightmemory.png", shortName: "bright MEMORY Act.1", abbrev: "bright+ Act.1" },
+    // ONGEKI_BRIGHT_MEMORY_ACT_2: { name: "オンゲキ bright MEMORY Act.2", image: "brightmemory.png", shortName: "bright MEMORY Act.2", abbrev: "bright+ Act.2" },
+    // ONGEKI_BRIGHT_MEMORY_ACT_3: { name: "オンゲキ bright MEMORY Act.3", image: "brightmemory.png", shortName: "bright MEMORY Act.3", abbrev: "bright+ Act.3" },
+    // ONGEKI_REFRESH: { name: "オンゲキ Re:Fresh", image: "refresh.png", shortName: "Re:Fresh", abbrev: "Re:Fresh" },
 });
 
 // Not included in main filters, but used for song data display
@@ -107,10 +119,26 @@ const CATEGORY = deepFreeze({
 			"LUMINOUS",
 			"LUMINOUS_PLUS",
 			"VERSE",
-			"X-VERSE",
-			"X-VERSE-X",
+			"X_VERSE",
+			// "X_VERSE_X",
 		]
-	}
+	},
+	// ONGEKI: {
+	//     name: "オンゲキ",
+	// 	titles: [
+	// 	    "ONGEKI",
+	// 		"ONGEKI_PLUS",
+	// 		"ONGEKI_SUMMER",
+	// 		"ONGEKI_SUMMER_PLUS",
+	// 		"ONGEKI_RED",
+	// 		"ONGEKI_RED_PLUS",
+	// 		"ONGEKI_BRIGHT",
+	// 		"ONGEKI_BRIGHT_MEMORY_ACT_1",
+	// 		"ONGEKI_BRIGHT_MEMORY_ACT_2",
+	// 		"ONGEKI_BRIGHT_MEMORY_ACT_3",
+	// 		"ONGEKI_REFRESH",
+	// 	]
+	// }
 });
 
 // Number of columns in the selection list.
