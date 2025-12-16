@@ -1,4 +1,4 @@
-# Touhou Song Sorter
+# GekiChu Song Sorter
 A fun way to manually merge sort a looot of music to make a song ranking.
 
 ## Developer notes
@@ -6,7 +6,7 @@ A fun way to manually merge sort a looot of music to make a song ranking.
 All of the song data is found at [src/fnc_data_song.js](./src/fnc_data_song.js), defined in the array `ary_SongData`. Each song's data is an array with a specific number of elements; for example:
 
 ```js
-["The Sky Where Cherry Blossoms Flutter Down", new Set([TITLE.HSiFS]), { title: "HSiFS", }, "3B207i_YzE0", "Title Screen", ORIGINAL_TRACK, OTHER_THEME]
+["girls.exe", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "t0xj5ZxWU3c", "rintaro soma", ORIGINAL_TRACK, GAME_VERSION]
 ```
 
 The elements, in order, are as follows:
@@ -15,9 +15,9 @@ The elements, in order, are as follows:
 1. A set containing IDs of the titles that the track appears in
 2. An object specifying which title data to use when displaying this track.
 3. YouTube video ID.
-4. Where the track plays, or whose theme it is.
-5. `ORIGINAL_TRACK` if this is the original release of the track, `ARRANGED_TRACK` if the track is rearranged from an earlier release.
-6. `STAGE_THEME` if a stage-only theme, `BOSS_THEME` if a boss-only theme, `STAGE_AND_BOSS_THEME` if both, or `OTHER_THEME` otherwise.
+4. The track's artist
+5. Always `ORIGINAL_TRACK`.
+6. `GAME_VERSION` if the entry is the game size version, or `EXTENDED_VERSION` if the entry is an extended/long version.
 
 ### Adding new games/albums
 

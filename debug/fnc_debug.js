@@ -1,4 +1,4 @@
-﻿var nLastID = -1;
+var nLastID = -1;
 const ary_TitleData = Object.values(TITLE);
 
 function next()
@@ -83,27 +83,16 @@ function showDataForTitle(nID)
 
 				// any/boss/stage
 				const bossStage = row.insertCell(-1);
-				if (ary_SongData[i][TRACK_TYPE] == OTHER_THEME)
+				if (ary_SongData[i][TRACK_TYPE] == GAME_VERSION)
 				{
-					bossStage.appendChild(createText("Any/All"));
+					bossStage.appendChild(createText("Game Size"));
 					bossStage.style = "background-color: rgb(250, 100,100)";
 				}
-				else if (ary_SongData[i][TRACK_TYPE] == BOSS_THEME)
+				else if (ary_SongData[i][TRACK_TYPE] == EXTENDED_VERSION)
 				{
-					bossStage.appendChild(createText("Boss"));
+					bossStage.appendChild(createText("Long"));
 					bossStage.style = "background-color: rgb(100, 250,100)";
 				}
-				else if (ary_SongData[i][TRACK_TYPE] == STAGE_THEME)
-				{
-					bossStage.appendChild(createText("Stage"));
-					bossStage.style = "background-color: rgb(100, 100,250)";
-				}
-				else if (ary_SongData[i][TRACK_TYPE] == STAGE_AND_BOSS_THEME)
-				{
-					bossStage.appendChild(createText("Boss+Stage"));
-					bossStage.style = "background-color: rgb(100, 250,250)";
-				}
-
 			}
 		}
 	}
