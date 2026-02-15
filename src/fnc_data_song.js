@@ -677,7 +677,7 @@ var ary_SongData = [
 	["ラブリージャッジメント", new Set([TITLE.VERSE]), { title: "VERSE" }, "aJDDY3lnnyQ", "いるかアイス feat.ちょこ", ORIGINAL_TRACK, GAME_VERSION],
 	["房総★ミラクル☆てんたくる!?", new Set([TITLE.VERSE]), { title: "VERSE" }, "0R5-jNon7Lg", "MOSAIC.WAV", ORIGINAL_TRACK, GAME_VERSION],
 	["Crystallize", new Set([TITLE.VERSE]), { title: "VERSE" }, "XjTe55VOZVk", "Lime", ORIGINAL_TRACK, GAME_VERSION],
-	["Oracle", new Set([TITLE.VERSE]), { title: "VERSE" }, "qhunKRiAMFk", "XXFSPn4HtN4", ORIGINAL_TRACK, GAME_VERSION],
+	["Oracle", new Set([TITLE.VERSE]), { title: "VERSE" }, "qhunKRiAMFk", "DJ Noriken", ORIGINAL_TRACK, GAME_VERSION],
 	["The Devil Incarnate", new Set([TITLE.VERSE]), { title: "VERSE" }, "NSsDzh0cvog", "jTXXW1GddKU", ORIGINAL_TRACK, GAME_VERSION],
 	["Theatore Creatore", new Set([TITLE.VERSE]), { title: "VERSE" }, "hfIJUzNsn4g", "99-ylJ8NO0o", ORIGINAL_TRACK, GAME_VERSION],
 	["激烈!!!!ファミレスガールは帰しま1000!!!!", new Set([TITLE.VERSE]), { title: "VERSE" }, "3urU5OzMCK8", "南ノ南 feat.9Lana", ORIGINAL_TRACK, GAME_VERSION],
