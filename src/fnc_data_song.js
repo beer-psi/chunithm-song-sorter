@@ -768,7 +768,7 @@ var ary_SongData = [
     ["めんどーい！やっほーい！ともだち！", new Set([TITLE.ONGEKI_PLUS]), { title: "ONGEKI_PLUS" }, "m-9KLgBzYgU", "曲：前山田健一／歌：7EVENDAYS⇔HOLIDAYS [井之原 小星(CV：ももの はるな)、柏木 咲姫(CV：石見 舞菜香)]", ORIGINAL_TRACK, GAME_VERSION],
     ["BOUNCE & DANCE", new Set([TITLE.ONGEKI_PLUS]), { title: "ONGEKI_PLUS" }, "zE94G6qXeho", "IOSYS TRAX", ORIGINAL_TRACK, GAME_VERSION],
     ["心", new Set([TITLE.ONGEKI_PLUS]), { title: "ONGEKI_PLUS" }, "q7tzPk5r_W8", "削除 (Violin : Katali)", ORIGINAL_TRACK, GAME_VERSION],
-    ["UTAKATA", new Set([TITLE.ONGEKI_PLUS]), { title: "ONGEKI_PLUS" }, "CVklYMRQ1ZE", "曲：ゆよゆっぺ／歌：九條 楓(CV：佳村 はるか)", ORIGINAL_TRACK, GAME_VERSION],
+    ["UTAKATA", new Set([TITLE.ONGEKI_PLUS]), { title: "ONGEKI_PLUS" }, "3S1CNqIwRV8", "曲：ゆよゆっぺ／歌：九條 楓(CV：佳村 はるか)", ORIGINAL_TRACK, GAME_VERSION],
     ["Rule the World!!", new Set([TITLE.ONGEKI_PLUS]), { title: "ONGEKI_PLUS" }, "CVklYMRQ1ZE", "曲：八木雄一 feat. Marty Friedman／歌：逢坂 茜(CV：大空 直美)", ORIGINAL_TRACK, GAME_VERSION],
     ["どうぶつ☆パラダイス", new Set([TITLE.ONGEKI_PLUS]), { title: "ONGEKI_PLUS" }, "lz2Zw4XjZJA", "曲：村井大／歌：珠洲島 有栖(CV：長縄 まりあ)", ORIGINAL_TRACK, GAME_VERSION],
     ["Y.Y.Y.計画!!!!", new Set([TITLE.ONGEKI_PLUS]), { title: "ONGEKI_PLUS" }, "cQH5eLsbvRE", "曲：烏屋茶房／歌：R.B.P. [九條 楓(CV：佳村 はるか)、逢坂 茜(CV：大空 直美)、珠洲島 有栖(CV：長縄 まりあ)]", ORIGINAL_TRACK, GAME_VERSION],
