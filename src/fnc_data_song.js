@@ -715,7 +715,7 @@ var ary_SongData = [
     ["恋伯色", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "CtOcblnE0K8", "瀬名水紀 feat.六宮", ORIGINAL_TRACK, GAME_VERSION],
     ["OUTRAGE", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "YPGaEhKa3_8", "USAO vs DJ Myosuke", ORIGINAL_TRACK, GAME_VERSION],
     ["Warp Speed", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "btVCiJCc5U8", "Nhato", ORIGINAL_TRACK, GAME_VERSION],
-    ["In the Straying Story", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "pIvyJRM9P6c", "polysha", ORIGINAL_TRACK, GAME_VERSION],
+    ["In the Straying Story", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "Xkcm5MvaGhY", "polysha", ORIGINAL_TRACK, GAME_VERSION],
     ["PhenomenoN", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "Np9rzX6wPe4", "Laur feat.Tia", ORIGINAL_TRACK, GAME_VERSION],
     ["輪廻玲々", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "0MTGa3XRv84", "suzu", ORIGINAL_TRACK, GAME_VERSION],
     ["hyperreality", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "vUolhaZfL1I", "tn-shi", ORIGINAL_TRACK, GAME_VERSION],
