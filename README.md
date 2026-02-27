@@ -1,4 +1,4 @@
-# GekiChu Song Sorter
+# GekiChuMai Song Sorter
 A fun way to manually merge sort a looot of music to make a song ranking.
 
 ## Developer notes

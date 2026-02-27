@@ -690,7 +690,11 @@ function fnc_Sort(int_SelectID)
 	// Completion check
 	int_Status = (int_LeftList < 0) ? 2 : 1;
 
-	fnc_ShowData();
+    fnc_ShowData();
+    
+    if (getID('optAutosave').checked) {
+        fnc_Save(false);
+    }
 }
 
 // *****************************************************************************
