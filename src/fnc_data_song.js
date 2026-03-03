@@ -52,7 +52,7 @@ const TITLE = deepFreeze({
 	LUMINOUS_PLUS: { name: "CHUNITHM LUMINOUS PLUS", image: "chunithm/luminousplus.png", shortName: "LUMINOUS PLUS", abbrev: "LUMINOUS+" },
 	VERSE: { name: "CHUNITHM VERSE", image: "chunithm/verse.png", shortName: "VERSE", abbrev: "VERSE" },
     X_VERSE: { name: "CHUNITHM X-VERSE", image: "chunithm/x-verse.png", shortName: "X-VERSE", abbrev: "X-VERSE" },
-    // X_VERSE_X: { name: "CHUNITHM X-VERSE-X", image: "x-verse-x.png", shortName: "X-VERSE-X", abbrev: "X-VERSE-X" },
+    X_VERSE_X: { name: "CHUNITHM X-VERSE-X", image: "chunithm/x-verse-x.png", shortName: "X-VERSE-X", abbrev: "X-VERSE-X" },
     
     ONGEKI: { name: "オンゲキ", image: "ongeki/ongeki.png", shortName: "オンゲキ", abbrev: "オンゲキ" },
     ONGEKI_PLUS: { name: "オンゲキ PLUS", image: "ongeki/ongekiplus.png", shortName: "PLUS", abbrev: "オンゲキ+" },
@@ -148,7 +148,7 @@ const CATEGORY = deepFreeze({
 			"LUMINOUS_PLUS",
 			"VERSE",
 			"X_VERSE",
-			// "X_VERSE_X",
+			"X_VERSE_X",
 		]
 	},
 	ONGEKI: {
@@ -725,14 +725,20 @@ var ary_SongData = [
     ["DEvourER", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "JjJ8jPqA8oQ", "ZxNX + Redsign", ORIGINAL_TRACK, GAME_VERSION],
     ["創 -汝ら新世界へ歩む者なり-", new Set([TITLE.X_VERSE]), { title: "X_VERSE" }, "kLs6UW43MsQ", "BlackY VS Yooh VS siromaru VS xi VS モリモリあつし", ORIGINAL_TRACK, GAME_VERSION],
     
-    // ["魔法に照らされたアンコール", new Set([TITLE.X_VERSE_X]), { title: "X-VERSE-X" }, "JD4eP5OuoqY", "MIMI feat.wawa", ORIGINAL_TRACK, GAME_VERSION],
-    // ["ジナ", new Set([TITLE.X_VERSE_X]), { title: "X-VERSE-X" }, "", "niki feat.DELUTAYA", ORIGINAL_TRACK, GAME_VERSION],
-    // ["Road to Aventura", new Set([TITLE.X_VERSE_X]), { title: "X-VERSE-X" }, "", "s-don", ORIGINAL_TRACK, GAME_VERSION],
-    // ["☆をつなぐシュトラール", new Set([TITLE.X_VERSE_X]), { title: "X-VERSE-X" }, "", "ああああ", ORIGINAL_TRACK, GAME_VERSION],
-    // ["MOMOCO68000", new Set([TITLE.X_VERSE_X]), { title: "X-VERSE-X" }, "", "AKIRA YAMAOKA", ORIGINAL_TRACK, GAME_VERSION],
-    // ["〚回帰〛 ～Scherzo ~フォルトゥーナの悪戯~", new Set([TITLE.X_VERSE_X]), { title: "X-VERSE-X" }, "", "MIssionary & DCWH", ORIGINAL_TRACK, GAME_VERSION],
-    // ["tHE uNcontRollaBle ciNdeRella", new Set([TITLE.X_VERSE_X]), { title: "X-VERSE-X" }, "tna0XrwbahI", "Felysrator (feat. Lamanya)", ORIGINAL_TRACK, GAME_VERSION],
-    // ["轆轤首", new Set([TITLE.X_VERSE_X]), { title: "X-VERSE-X" }, "K6QC4mNBaoc", "かねこちはる", ORIGINAL_TRACK, GAME_VERSION],
+    ["魔法に照らされたアンコール", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "JD4eP5OuoqY", "MIMI feat.wawa", ORIGINAL_TRACK, GAME_VERSION],
+    ["ジナ", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "WDmOBDdeYF4", "niki feat.DELUTAYA", ORIGINAL_TRACK, GAME_VERSION],
+    ["Road to Aventura", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "gXYGuJNxY1M", "s-don", ORIGINAL_TRACK, GAME_VERSION],
+    ["☆をつなぐシュトラール", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "ZQ0mtLpr1x8", "ああああ", ORIGINAL_TRACK, GAME_VERSION],
+    ["MOMOCO68000", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "T7ncnI9xbY8", "AKIRA YAMAOKA", ORIGINAL_TRACK, GAME_VERSION],
+    ["〚回帰〛 ～Scherzo ~フォルトゥーナの悪戯~", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "Ydvq2PDjlPA", "MIssionary & DCWH", ORIGINAL_TRACK, GAME_VERSION],
+    ["tHE uNcontRollaBle ciNdeRella", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "tna0XrwbahI", "Felysrator (feat. Lamanya)", ORIGINAL_TRACK, GAME_VERSION],
+    ["轆轤首", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "K6QC4mNBaoc", "かねこちはる", ORIGINAL_TRACK, GAME_VERSION],
+    ["天地のうた", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "lYiSxXYfscw", "駄菓子O型 feat.みょみょ", ORIGINAL_TRACK, GAME_VERSION],
+    ["Aether Wind", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "wm7T6y8GDWA", "OSTER project feat. 常盤ゆう", ORIGINAL_TRACK, GAME_VERSION],
+    ["そして春めくモノローグ", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "mqK531A_3do", "Qutabire feat.柚子花", ORIGINAL_TRACK, GAME_VERSION],
+    ["Sweet & Sour", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "ZBCs5CVtwJA", "Sakuzyo or Sobrem", ORIGINAL_TRACK, GAME_VERSION],
+    ["DOMiNUS_GRAiL", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "Fhw7jUOTm40", "xi", ORIGINAL_TRACK, GAME_VERSION],
+    ["Verse X", new Set([TITLE.X_VERSE_X]), { title: "X_VERSE_X" }, "DbK6twErgUg", "Yu_Asahina", ORIGINAL_TRACK, GAME_VERSION],
     
     ["Perfect Shining!!", new Set([TITLE.ONGEKI]), { title: "ONGEKI" }, "t37BtOQ2_OY", "曲：宮崎誠／歌：星咲 あかり(CV：赤尾 ひかる)", ORIGINAL_TRACK, GAME_VERSION],
     ["STARTLINER", new Set([TITLE.ONGEKI]), { title: "ONGEKI" }, "malCeygWO4k", "曲：kz(livetune)／歌：オンゲキシューターズ", ORIGINAL_TRACK, GAME_VERSION],
@@ -997,6 +1003,7 @@ var ary_SongData = [
     ["Tachyon", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "7MzOWA9a_x0", "Zekk", ORIGINAL_TRACK, GAME_VERSION],
     ["lovelynonsense", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "8y3K3U69ByU", "tn-shi", ORIGINAL_TRACK, GAME_VERSION],
     ["六連星", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "0-7j9W8D2rY", "taichi hiyama", ORIGINAL_TRACK, GAME_VERSION],
+    ["THE CELESTIA 180", new Set([TITLE.ONGEKI_REFRESH]), { title: "ONGEKI_REFRESH" }, "HofQl9r-bDI", "Sobrem / Sound piercer “Espitz” Gt. NeLiME", ORIGINAL_TRACK, GAME_VERSION],
     
     ["True Love Song", new Set([TITLE.MAIMAI]), { title: "MAIMAI" }, "L14mBDHMq3E", "Kai/クラシック「G線上のアリア」", ORIGINAL_TRACK, GAME_VERSION],
     ["Color My World", new Set([TITLE.MAIMAI]), { title: "MAIMAI" }, "wHjYu0SODJI", "GOSH/クラシック「悲愴」", ORIGINAL_TRACK, GAME_VERSION],
@@ -1395,4 +1402,6 @@ var ary_SongData = [
     ["ECHO,", new Set([TITLE.MAIMAI_DX_CIRCLE]), { title: "MAIMAI_DX_CIRCLE" }, "A8ZcgnCVe1k", "棗いつき", ORIGINAL_TRACK, GAME_VERSION],
     ["Phase: Theatre", new Set([TITLE.MAIMAI_DX_CIRCLE]), { title: "MAIMAI_DX_CIRCLE" }, "-hABR-dMkCw", "藍月なくる", ORIGINAL_TRACK, GAME_VERSION],
     ["Sky Trails", new Set([TITLE.MAIMAI_DX_CIRCLE]), { title: "MAIMAI_DX_CIRCLE" }, "x6tEQzfNbOg", "La prière", ORIGINAL_TRACK, GAME_VERSION],
+    ["7 Wonders", new Set([TITLE.MAIMAI_DX_CIRCLE]), { title: "MAIMAI_DX_CIRCLE" }, "b-0oeuiO8GA", "削除", ORIGINAL_TRACK, GAME_VERSION],
+    ["Break the Speakers", new Set([TITLE.MAIMAI_DX_CIRCLE]), { title: "MAIMAI_DX_CIRCLE" }, "6RTLznn_I7k", "DJ Myosuke", ORIGINAL_TRACK, GAME_VERSION],
 ];
